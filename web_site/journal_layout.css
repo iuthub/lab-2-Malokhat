@@ -1,0 +1,50 @@
+.top{
+    background-color: #A8F0F0;
+
+}
+
+.third{
+	border: 4px solid #C2E9E9;
+	background-color: #E8FBFB;
+	float: right;
+	width: 760px;
+}
+.fourth {
+	border: 4px solid #C2E9E9;
+	background-color: #E8FBFB;
+	float: right;
+	width: 760px;
+}
+.second{
+		border: 5px solid #4169E1;
+		background-color: #00CED1;
+		float: left;
+		width: 150px;
+	
+}
+div{
+	padding: 5px;
+	margin-top: 10px;
+}
+.container_24{
+	border:      solid white, 10px; 
+	background-color: white;
+}
+.k {
+float: right;
+width: 120px;
+height: 90px;
+}
+.a {
+	float: right;
+	height: 120px;
+width: 250px;
+}
+
+element{
+	border-bottom:  2px dashed blue;
+
+}
+#im {
+	float: left;
+}

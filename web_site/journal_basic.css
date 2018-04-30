@@ -21,6 +21,7 @@ blockquote {
 body {
 	font-family: "Georgia";
 	color: #009097;
+	background-image: url("images/back.jpg");
 }
 
 
@@ -29,6 +30,9 @@ h1, h2 {
 	font-family: "Century Gothic";
 	margin: 3px;
 	padding: 0px;
+}
+h2{
+	font-size: 14pt;
 }
 
 img {
